@@ -10,7 +10,7 @@ um mini programa onde pode calcular a media de um estudante com aprovação e re
 - executar o arquivo na terminal 
 ## Exemplo de uso e demostração:
 - a nota de um aluno x consegue na primera nota 7 e na segunda nota ele tira 8 dentro do programa faz um analise rapido e na saida mostra a media de 7.50 E seu status APROVADOA
-![captura e demostração](exemplo.png)
+
 ## Autor e contato:
 - **nome** Alexander Yamil Pacohuanca Apaza
 - **Contato** [www.linkedin.com/in/alexanderyamilapaza] 
